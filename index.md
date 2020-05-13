@@ -4,4 +4,4 @@ The Interbank Card Center ([BKM](https://bkm.com.tr/en)) was established in 1990
 
 BKM has sectoral development data with transaction counts and volumes for both credit and debit cards. ([The data can be reached here.](https://bkm.com.tr/en/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=6&List=Listele))
 
-[You can see my analysis here.](https://oguzayy.github.io/r/BKM_Analysis.html)
+[You can see my analysis here.](BKM_Analysis.html)
